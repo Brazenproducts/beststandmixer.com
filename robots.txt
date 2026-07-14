@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beststandmixer.com/sitemap.xml
